@@ -15,18 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="rsa_library.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="rsa_library.cpp">
+    <ClCompile Include="CalcControlSum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="rsa_library.def">
-      <Filter>Source Files</Filter>
-    </None>
   </ItemGroup>
 </Project>

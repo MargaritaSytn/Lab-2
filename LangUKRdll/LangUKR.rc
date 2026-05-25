@@ -1,0 +1,10 @@
+#include <windows.h>
+#include "resource.h"
+
+STRINGTABLE
+BEGIN
+IDS_LASTNAME      "Прiзвище: Ситник М. В."
+IDS_FACULTY       "Факультет: Комп'ютернi науки"
+IDS_GROUP         "Група: ПЗПi-24-5"
+IDS_DISCIPLINE    "Дисциплiна: Операцiйнi системи"
+END
